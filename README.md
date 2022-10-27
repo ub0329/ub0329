@@ -17,7 +17,7 @@
 # 연락처
   - Phone: 010-5274-9498
   - 메일 : leeub0329@naver.com
-  - 블로그 : [title](https://blog.naver.com/leeub0329)
+  - 블로그 :[blog](https://blog.naver.com/leeub0329)
 # 취미
 - 카페 공부
 - 게임 분석
@@ -37,7 +37,7 @@
    
 # 공모전
 ## KBC 공모전
- ![alt text](imge.projectcb.jpg)
+ ![alt text](projectcb.jpg)
  - 환경 보호를 주제로한 게임 프로젝트 
  ### 미니게임 & 퀴즈
    - 식물 키우기 게임
