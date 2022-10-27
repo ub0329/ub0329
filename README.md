@@ -4,7 +4,7 @@
 
 # 인적사항
 
-![alt text](eunbi.jpg){ width="20%" height="30%"}
+![alt text](eunbi1.jpg)
 ## 이름: 이은비
 ## 생년월일:2001.03.29
 
