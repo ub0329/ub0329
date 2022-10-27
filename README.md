@@ -1,7 +1,5 @@
 # Resume
 
-
-
 # 인적사항
 
 ![alt text](eunbi11.jpg)
