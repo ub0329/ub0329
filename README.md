@@ -1,6 +1,6 @@
 #Resume
 
-![alt text](eunbi.png){: width="100" height="100"}
+![alt text](eunbi.jpg){: width="100" height="100"}
 
 # 인적사항
 ## 이름: 이은비
