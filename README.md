@@ -1,8 +1,10 @@
-#Resume
+# Resume
 
-![alt text](eunbi.jpg){: width="100" height="100"}
+
 
 # 인적사항
+
+![alt text](eunbi.jpg){: width="20" height="30"}
 ## 이름: 이은비
 ## 생년월일:2001.03.29
 
