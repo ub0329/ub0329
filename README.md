@@ -16,6 +16,7 @@
 # 연락처
   - Phone: 010-5274-9498
   - 메일 : leeub0329@naver.com
+  - 블로그 : [title](https://blog.naver.com/leeub0329)
 # 취미
 - 카페 공부
 - 게임 분석
