@@ -37,7 +37,7 @@
    
 # 공모전
 ## KBC 공모전
- ![alt text](projectcb.jpg)
+ ![alt text](./projectcb.jpg)
  - 환경 보호를 주제로한 게임 프로젝트 
  ### 미니게임 & 퀴즈
    - 식물 키우기 게임
