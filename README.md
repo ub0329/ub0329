@@ -1,16 +1,18 @@
-### Hi there 👋
+#Resume
 
-<!--
-**ub0329/ub0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 인적사항
+## 이름: 이은비
+## 생년월일:2001.03.29
 
-Here are some ideas to get you started:
+## 주소: 경기도 남양주시 화도읍 녹촌로
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 학력
+  - 학교: 한림대학교
+  - 전공: 소프트웨어학부 콘텐츠IT
+   - 부전공: 식품영양학
+
+# 연락처
+  - Phone: 010-5274-9498
+  - 메일 : leeub0329@naver.com
+
+
