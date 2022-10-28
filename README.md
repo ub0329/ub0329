@@ -5,11 +5,12 @@
 
 ![alt text](eunbi11.jpg)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=cobalt)
+ 
 ## 이름: 이은비
 ## 생년월일:2001.03.29
 
 ## 주소: 경기도 남양주시 화도읍 녹촌로
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
 
 # 학력
   - 학교: 한림대학교
