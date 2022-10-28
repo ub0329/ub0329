@@ -4,6 +4,8 @@
 # 인적사항
 
 ![alt text](eunbi11.jpg)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=cobalt)
 ## 이름: 이은비
 ## 생년월일:2001.03.29
 
@@ -54,5 +56,4 @@
  - C 언어
  - 리눅스
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=synthwave)
 
