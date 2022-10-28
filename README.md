@@ -11,7 +11,7 @@
 
 ## 주소: 경기도 남양주시 화도읍 녹촌로
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)</div>
+ 
 
 # 학력
   - 학교: 한림대학교
@@ -53,6 +53,7 @@
    - 공기 정화 매트리스 게임
 
 # 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)
  - C# , 유니티
  - java
  - C 언어
