@@ -53,4 +53,6 @@
  - java
  - C 언어
  - 리눅스
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=synthwave)
 
