@@ -24,16 +24,8 @@
  씨애랑
  - SW 전시회
  - 하계 방학 워크숍
- ## 전시회 프로젝트 
+ # 프로젝트 
   - [여우의 모험] 게임 - 동아리 내 은상
-   
-# 공모전
-## KBC 공모전
- ![alt text](./projectcb.jpg)
- - 환경 보호를 주제로한 게임 프로젝트 
- ### 환경관련 미니게임 & 퀴즈
-   
-# 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)
- 
-
+  - kbc 공모전: 환경 보호를 주제로한 탈출 게임
+  - VR/AR 기초 텀프로젝트 : [산타의 크리스마스 준비] : https://youtu.be/PrEpLfZ4Wh8
+  
