@@ -18,7 +18,7 @@
 # 연락처
   - Phone: 010-5274-9498
   - 메일 : leeub0329@naver.com
-  - 블로그 :[blog](https://blog.naver.com/leeub0329)
+ 
 
 # 동아리
  씨애랑
