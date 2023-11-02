@@ -1,9 +1,9 @@
 # RESUM
 
 ## introduction
- -name: 이은비
- -E-mail: leeub0329@naver.com
- -Phone: 010-5274-9498
+ - name: 이은비
+ - E-mail: leeub0329@naver.com
+ - Phone: 010-5274-9498
 
  
 ## Education
