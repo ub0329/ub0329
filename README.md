@@ -1,12 +1,12 @@
 # 🎮
 
-## Introduction
+# Introduction
  - name: 이은비
  - E-mail: leeub0329@naver.com
  - Phone: 010-5274-9498
 
  
-## Education🖋️
+# Education🖋️
   - 학교: 한림대학교
   - 전공: 소프트웨어학부 콘텐츠IT
   - 부전공: 식품영양학
