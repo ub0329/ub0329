@@ -13,6 +13,9 @@
 
 # portfolio
 
+
+## 눈빛보내기 게임(구글 카드 보드)
+https://github.com/ub0329/Sending-eyes-game
 ## 조주기능사 시뮬레이션
 https://github.com/ChartaP/metabar
 
