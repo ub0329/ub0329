@@ -5,7 +5,7 @@
 -name: 이은비
 -E-mail: leeub0329@naver.com
 -Phone: 010-5274-9498
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
+
  
 ## Education
   - 학교: 한림대학교
