@@ -33,6 +33,9 @@ https://github.com/ub0329/Sending-eyes-game
 ## 조주기능사 시뮬레이션
 [2023]팀(5명)
 https://github.com/ChartaP/metabar
+## AR
+[2023]수업
+https://github.com/ub0329/AR/blob/main/README.md
 ## 언리얼 기본 동작
 [2023]수업
 https://github.com/ub0329/Unreal_Basic/blob/main/README.md
