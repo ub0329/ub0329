@@ -38,6 +38,7 @@ https://github.com/ub0329/Sending-eyes-game
 [2023]팀(5명)
 https://github.com/ChartaP/metabar
 ### ARFace
+[2023]개인 https://github.com/ub0329/AR-Face-app/blob/main/README.md
 ### TPS game
 ### AR
 [2023]수업
