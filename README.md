@@ -18,38 +18,46 @@
 <img src="https://github.com/ub0329/ub0329/assets/112606772/f0f79e5f-1d82-4632-b068-b89e911ecda5"  width="50" height="50"/>
 
 # Portfolio📔
-### Mission
-[2022]팀(4명)
-https://github.com/ub0329/environment-game/blob/main/README.md
-### the adventures of foxes
-[2022]팀(2명)
-https://github.com/ub0329/The-Adventures-of-Foxes/blob/main/README.md
-### Santa jumping game
-[2022]개인
-https://github.com/ub0329/Santa-game/blob/main/README.md
-### a nutrition management site
-[2022]팀(2명)
-[https://github.com/ub0329/Nutrition/blob/main/README.md](https://github.com/heeyapro/Nutrition-Education-Diagnosis)
-***
-### The staring game
-[2023]개인
-https://github.com/ub0329/Sending-eyes-game
-### Craftsman Bartender Simulator
+## unity
+### 2D 
+- Craftsman Bartender Simulator
 [2023]팀(5명)
 https://github.com/ChartaP/metabar
-### ARFace
+### 3D 
+- Mission
+[2022]팀(4명)
+https://github.com/ub0329/environment-game/blob/main/README.md
+- the adventures of foxes
+[2022]팀(2명)
+https://github.com/ub0329/The-Adventures-of-Foxes/blob/main/README.md
+- Santa jumping game
+[2022]개인
+https://github.com/ub0329/Santa-game/blob/main/README.md
+### VR 
+- Sending-eyes-game(gogle card board)
+[2023]개인
+https://github.com/ub0329/Sending-eyes-game
+### AR
+- ARFace
 [2023]개인 
 https://github.com/ub0329/AR-Face-app/blob/main/README.md
-### TPS game
+
+## Unreal
+- TPS game
 [2023]개인 
 https://github.com/ub0329/TPSgame
 
-# class
+## Web
+-  a nutrition management site
+[2022]팀(2명)
+[https://github.com/ub0329/Nutrition/blob/main/README.md](https://github.com/heeyapro/Nutrition-Education-Diagnosis)
+
+## class
 ### AR
-[2023]수업
+- [2023]수업
 https://github.com/ub0329/AR/blob/main/README.md
 ### Unreal
-[2023]수업
+- [2023]수업
 https://github.com/ub0329/Unreal_Basic/blob/main/README.md
 
  
