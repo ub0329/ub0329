@@ -1,4 +1,5 @@
-# 끈기와 열정을 가진 유니티 개발자 꿈나무 이은비입니다. 
+![제목을 입력해주세요_-001](https://github.com/ub0329/ub0329/assets/112606772/27846e9c-5475-4df6-a25c-43212e4c01c4)
+
 # Introduction
  - name: 이은비
  - E-mail: leeub0329@naver.com
