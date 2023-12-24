@@ -52,7 +52,7 @@ https://github.com/ub0329/TPSgame
 [2022]팀(2명)
 [https://github.com/ub0329/Nutrition/blob/main/README.md](https://github.com/heeyapro/Nutrition-Education-Diagnosis)
 
-## class
+# class
 ### AR
 - [2023]수업
 https://github.com/ub0329/AR/blob/main/README.md
