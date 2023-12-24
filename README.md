@@ -1,5 +1,4 @@
-# 🎮
-
+# 끈기와 열정을 가진 유니티 개발자 꿈나무 이은비입니다. 
 # Introduction
  - name: 이은비
  - E-mail: leeub0329@naver.com
