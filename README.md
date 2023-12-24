@@ -25,7 +25,7 @@ https://github.com/ub0329/The-Adventures-of-Foxes/blob/main/README.md
 https://github.com/ub0329/Santa-game/blob/main/README.md
 ## 영양 지킴이(영양관리 사이트)
 [2022]팀(2명)
-https://github.com/ub0329/Nutrition/blob/main/README.md
+[https://github.com/ub0329/Nutrition/blob/main/README.md](https://github.com/heeyapro/Nutrition-Education-Diagnosis)
 ***
 ## 눈빛보내기 게임(구글 카드 보드)
 [2023]개인
