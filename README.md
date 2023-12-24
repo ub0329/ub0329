@@ -11,8 +11,12 @@
   - 전공: 소프트웨어학부 콘텐츠IT
   - 부전공: 식품영양학
 # Technique
-- 유니티(AR/VR)
-- 언리얼
+<img src="https://github.com/ub0329/ub0329/assets/112606772/ec5358f4-8352-4564-8510-3b09cc52f230"  width="80" height="35"/>
+<img src="https://github.com/ub0329/ub0329/assets/112606772/196b716f-0d6c-4aef-b317-e4c8e4b5ad36"  width="50" height="50"/>
+<img src="https://github.com/ub0329/ub0329/assets/112606772/1bc848af-b2fb-4f87-8343-d9307b82b918"  width="50" height="50"/>
+<img src="https://github.com/ub0329/ub0329/assets/112606772/50908cae-989c-49d4-a039-f205e897892d"  width="50" height="50"/>
+<img src="https://github.com/ub0329/ub0329/assets/112606772/f0f79e5f-1d82-4632-b068-b89e911ecda5"  width="50" height="50"/>
+
 # Portfolio📔
 ## 환경 게임
 [2022]팀(4명)
