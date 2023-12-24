@@ -18,29 +18,31 @@
 <img src="https://github.com/ub0329/ub0329/assets/112606772/f0f79e5f-1d82-4632-b068-b89e911ecda5"  width="50" height="50"/>
 
 # Portfolio📔
-## 환경 게임
+### Mission
 [2022]팀(4명)
 https://github.com/ub0329/environment-game/blob/main/README.md
-## 여우의 모험
+### the adventures of foxes
 [2022]팀(2명)
 https://github.com/ub0329/The-Adventures-of-Foxes/blob/main/README.md
-## 산타 게임
+### Santa jumping game
 [2022]개인
 https://github.com/ub0329/Santa-game/blob/main/README.md
-## 영양 지킴이(영양관리 사이트)
+### a nutrition management site
 [2022]팀(2명)
 [https://github.com/ub0329/Nutrition/blob/main/README.md](https://github.com/heeyapro/Nutrition-Education-Diagnosis)
 ***
-## 눈빛보내기 게임(구글 카드 보드)
+### The staring game
 [2023]개인
 https://github.com/ub0329/Sending-eyes-game
-## 조주기능사 시뮬레이션
+### Craftsman Bartender Simulator
 [2023]팀(5명)
 https://github.com/ChartaP/metabar
-## AR
+### ARFace
+### TPS game
+### AR
 [2023]수업
 https://github.com/ub0329/AR/blob/main/README.md
-## 언리얼 기본 동작
+### Unreal
 [2023]수업
 https://github.com/ub0329/Unreal_Basic/blob/main/README.md
 
